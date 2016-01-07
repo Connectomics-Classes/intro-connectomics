@@ -41,8 +41,8 @@ Each class will consist of a lecture, paper presentations, workshop activity, an
 - Class 3:  Nanoscale Connectomics:  Electron Microscopy-based Graph Estimation [Latex introduction]
 - Class 4:  Introduction to Machine Learning (Tyler Tomita) 
 - Class 5:  Introduction to Graph Theory (Joshua Vogelstein)
-- Class 6:  Connectomics:  Life as a Graduate Student - Approaches for Big Data Storage, Visualization, and Analysis (Various)
-- Class 7:  Introduction to Computer Vision 
+- Class 6:  Connectomics:  Life as a Graduate Student - Big Data Storage, Visualization, and Analysis (Various)
+- Class 7:  Introduction to Computer Vision (Austin Reiter)
 - Class 8:  Strategically Approaching Research Questions and Our Journeys; extended lab session
 - Class 9:  What's Next?  Other Approaches, Challenges in Connectomics and Poster Session
 
