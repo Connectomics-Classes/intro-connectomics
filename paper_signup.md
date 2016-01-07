@@ -7,11 +7,10 @@
 | 3            | 1/7  | Bock         | Network anatomy and in vivo physiology of visual cortical neurons                          | Eric Huang         |
 | 3            | 1/7  | Takemura     | A visual motion detection circuit suggested by Drosophila connectomics                     | Matt Saltzman      |
 | 3            | 1/7  | Gray Roncal  | An Automated Images-to-Graphs Pipeline for High Resolution Connectomics                    | Brandon Duderstadt |
-| 3            | 1/7  | Kaynig       | Large-Scale Automatic Reconstruction of Neuronal Processes from Electron Microscopy Images |                    |
 | 4            | 1/11 | Bogovic      | Learned versus hand-designed feature representations for 3d agglomeration                  | Mary Yen           |
 | 4            | 1/11 | Plaza        | Focused Proofreading Efficiently ectracting connectomes from segmented EM Images           | Sandra Weiss       |
-| 4            | 1/11 |              |                                                                                            |                    |
-| 5            | 1/12 | Pfister      | Visualization in Connectomics                                                              | Dalia Rohm         |
+| 4            | 1/11 | Mori         | Three-dimensinal tracking of axonal projections in the brain by magnetic resonance imaging | Zhou Li            |
+| 5            | 1/12 | Lichtman     | The big data challenges of connectomics                                                    | Albert Lee         |
 | 5            | 1/12 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              | Eileen Xeo         |
 | 5            | 1/12 | Xia          | BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics                 | Augusto Ramirez    |
 | 6            | 1/14 | Hinton       | A fast learning algoirthm for deep belief nets                                             | Elizabeth Morgan   |
@@ -20,7 +19,7 @@
 | 6            | 1/14 | Deisseroth   | Clarity for mapping the nervous system                                                     | Daniel Lopez       |
 | 7            | 1/19 | Helmstaedter | Connectomic reconstruction of the inner plexiform layer in the mouse retina                | Katie Link         |
 | 7            | 1/19 | Breiman      | Random Forests                                                                             | Jizhou Xu          |
-| 7            | 1/19 |              |                                                                                            |                    |
+| 7            | 1/19 | Kaynig       | Large-Scale Automatic Reconstruction of Neuronal Processes from Electron Microscopy Images | Chris Micek        |
 | 7            | 1/19 |              |                                                                                            |                    |
 | 8            | 1/20 | Mishenko     | Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective         | Thomas Keady       |
 | 8            | 1/20 |              |                                                                                            |                    |
