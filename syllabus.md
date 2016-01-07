@@ -38,12 +38,12 @@ Each class will consist of a lecture, paper presentations, workshop activity, an
 
 - Class 1:  NeuroData:  Enabling Data-Driven Neuroscience Discovery
 - Class 2:  Mesoscale Connectomics:  Magnetic Resonance Imaging-based Graph Estimation
-- Class 3:  Nanoscale Connectomics:  Electron Microscopy-based Graph Estimation
-- Class 4:  Introduction to Graph Theory
-- Class 5:  Computer Vision and Machine Learning
-- Class 6:  Approaches for Big Data Storage, Visualization, and Analysis
-- Class 7:  TBD/Lab Session
-- Class 8:  Strategically Approaching Research Questions and Our Journeys
+- Class 3:  Nanoscale Connectomics:  Electron Microscopy-based Graph Estimation [Latex introduction]
+- Class 4:  Introduction to Machine Learning (Tyler Tomita) 
+- Class 5:  Introduction to Graph Theory (Joshua Vogelstein)
+- Class 6:  Connectomics:  Life as a Graduate Student - Approaches for Big Data Storage, Visualization, and Analysis (Various)
+- Class 7:  Introduction to Computer Vision 
+- Class 8:  Strategically Approaching Research Questions and Our Journeys; extended lab session
 - Class 9:  What's Next?  Other Approaches, Challenges in Connectomics and Poster Session
 
 ### Typical Day
