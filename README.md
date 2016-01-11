@@ -11,6 +11,7 @@ This course will introduce the emerging field of connectomics, and give students
 - [Paper List](https://www.mendeley.com/groups/6030451/2015-connectomics-papers/papers/)
 - [Intro Survey](http://goo.gl/forms/7KuR88DWqo)
 - [Paper Presentation Feedback](http://goo.gl/forms/DoW7iariWN)
+- [Mid-Course Feedback + AMA](http://goo.gl/forms/Dxk9FvGZTm)
 
 ### Other Links of Interest
 - [Reading Scientific Papers 1](http://web.stanford.edu/~siegelr/readingsci.htm)
