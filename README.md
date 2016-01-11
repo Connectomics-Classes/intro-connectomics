@@ -12,6 +12,7 @@ This course will introduce the emerging field of connectomics, and give students
 - [Intro Survey](http://goo.gl/forms/7KuR88DWqo)
 - [Paper Presentation Feedback](http://goo.gl/forms/DoW7iariWN)
 - [Mid-Course Feedback + AMA](http://goo.gl/forms/Dxk9FvGZTm)
+- [Poster Template](https://www.lucidchart.com/invitations/accept/a9ecd81a-498f-4114-89ff-9ee7a17846a1)
 
 ### Other Links of Interest
 - [Reading Scientific Papers 1](http://web.stanford.edu/~siegelr/readingsci.htm)
