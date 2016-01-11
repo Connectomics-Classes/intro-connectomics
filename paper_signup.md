@@ -21,7 +21,7 @@
 | 7            | 1/19 | Kaynig       | Large-Scale Automatic Reconstruction of Neuronal Processes from Electron Microscopy Images | Chris Micek        |
 | 7            | 1/19 | Mori         | Three-dimensinal tracking of axonal projections in the brain by magnetic resonance imaging | Zhou Li            |
 | 8            | 1/20 | Mishenko     | Ultrastructural Analysis of Hippocampal Neuropil from the Connectomics Perspective         | Thomas Keady       |
-| 8            | 1/20 |              |                                                                                            |                    |
+| 8            | 1/20 | Hill         | Statistical connectivity provides a sufficient foundation for specific functional ...      | Greg Levine        |
 | 8            | 1/20 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
