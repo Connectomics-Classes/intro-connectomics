@@ -25,5 +25,5 @@
 | 9            | 1/21 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
-|            | 1/12 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              |          |
-|             | 1/5  | Helmstaedter | Cellular-resolution connectomics: Challenges of Dense Neural Circuit Reconstruction        |                    |
+|            |  | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              |          |
+|             |   | Helmstaedter | Cellular-resolution connectomics: Challenges of Dense Neural Circuit Reconstruction        |                    |
