@@ -3,14 +3,12 @@
 | 2            | 1/5  | Sporns       | The human connectome: a structural description of the human brain                          | Alex Sharata       |
 | 2            | 1/5  | Morgan       | Why Not Connectomics                                                                       | Kevin Peng         |
 | 2            | 1/5  | Fino         | Dense Inhibitory Connectivity in Neocortex                                                 | Monica Rodriguez   |
-| 2            | 1/5  | Helmstaedter | Cellular-resolution connectomics: Challenges of Dense Neural Circuit Reconstruction        |                    |
 | 3            | 1/7  | Bock         | Network anatomy and in vivo physiology of visual cortical neurons                          | Eric Huang         |
 | 3            | 1/7  | Takemura     | A visual motion detection circuit suggested by Drosophila connectomics                     | Matt Saltzman      |
 | 3            | 1/7  | Gray Roncal  | An Automated Images-to-Graphs Pipeline for High Resolution Connectomics                    | Brandon Duderstadt |
 | 4            | 1/11 | Bogovic      | Learned versus hand-designed feature representations for 3d agglomeration                  | Mary Yen           |
 | 4            | 1/11 | Plaza        | Focused Proofreading Efficiently ectracting connectomes from segmented EM Images           | Sandra Weiss       |
 | 5            | 1/12 | Lichtman     | The big data challenges of connectomics                                                    | Albert Lee         |
-| 5            | 1/12 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              | Eileen Xeo         |
 | 5            | 1/12 | Xia          | BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics                 | Augusto Ramirez    |
 | 6            | 1/14 | Hinton       | A fast learning algoirthm for deep belief nets                                             | Elizabeth Morgan   |
 | 6            | 1/14 | Mountcastle  | Introduction                                                                               | Adam Chang         |
@@ -27,3 +25,5 @@
 | 9            | 1/21 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
+|            | 1/12 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              |          |
+|             | 1/5  | Helmstaedter | Cellular-resolution connectomics: Challenges of Dense Neural Circuit Reconstruction        |                    |
