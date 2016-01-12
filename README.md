@@ -4,6 +4,10 @@ In recent years, advances in technology have enabled researchers to ask new ques
 
 This course will introduce the emerging field of connectomics, and give students the opportunity to directly contribute to ongoing research efforts within the JHU NeuroData team and beyond. The field of brain mapping spans a variety of resolutions and imaging modalities and promises insight into areas such as biofidelic algorithms and the validation of the cortical column hypothesis first proposed at JHU by Vernon Mountcastle in the 1960s. We will begin by broadly surveying the field of brain mapping across these different scales, and more deeply examine research in ultrastructure electron microscopy reconstruction efforts. Students will learn about scalable algorithms and approaches to extract graphs from large image volumes O(100 TB), and the importance of computer science in addressing modern neuroscience challenges.
 
+###Office Hours
+TA: Greg Kiar
+Email: gkiar@jhu.edu
+Clark 317, Tuesdays and Thursdays 11-12
 
 ### Class Links
 - [Paper Signup](.//paper_signup.md)
