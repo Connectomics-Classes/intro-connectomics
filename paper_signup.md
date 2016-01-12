@@ -10,7 +10,7 @@
 | 4            | 1/11 | Plaza        | Focused Proofreading Efficiently ectracting connectomes from segmented EM Images           | Sandra Weiss       |
 | 5            | 1/12 | Lichtman     | The big data challenges of connectomics                                                    | Albert Lee         |
 | 5            | 1/12 | Xia          | BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics                 | Augusto Ramirez    |
-| 6            | 1/14 | Hinton       | A fast learning algoirthm for deep belief nets                                             | Elizabeth Morgan   |
+|              | 1/14 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              | Elizabeth Morgan   |
 | 6            | 1/14 | Mountcastle  | Introduction                                                                               | Adam Chang         |
 | 6            | 1/14 | Burns        | from Cosmos to connectomes The evolution of data-intensive science                         | Ryan Marren        |
 | 6            | 1/14 | Deisseroth   | Clarity for mapping the nervous system                                                     | Daniel Lopez       |
@@ -25,5 +25,5 @@
 | 9            | 1/21 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
 | 9            | 1/21 |              |                                                                                            |                    |
-|            |  | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              |          |
+
 |             |   | Helmstaedter | Cellular-resolution connectomics: Challenges of Dense Neural Circuit Reconstruction        |                    |
