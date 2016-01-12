@@ -6,8 +6,8 @@ oo = OCP();
 oo.setImageToken('kasthuri11cc');
 oo.setImageChannel('image');
 
-oo.setAnnoToken('kasthuri2015_ramon_v1');
-oo.setAnnoChannel('vesicle');
+oo.setAnnoToken('kat11vesicles');
+oo.setAnnoChannel('annotation');
 
 q = OCPQuery;
 q.setType(eOCPQueryType.imageDense);
@@ -19,3 +19,5 @@ tic, im = oo.query(q); toc
 
 q.setType(eOCPQueryType.annoDense);
 tic, anno = oo.query(q); toc
+
+h = image(im); h.associate(anno)
