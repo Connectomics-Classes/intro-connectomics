@@ -12,7 +12,7 @@ oo.setAnnoChannel('annotation');
 q = OCPQuery;
 q.setType(eOCPQueryType.imageDense);
 %q.setCutoutArgs([2776, 4776],[7000,9000],[1004,1154],1);
-q.setCutoutArgs([2776, 3776],[7000,8000],[1004,1079],1);
+q.setCutoutArgs([4776, 5776],[8500,9500],[1150,1200],1);
 q.validate
 
 tic, im = oo.query(q); toc
