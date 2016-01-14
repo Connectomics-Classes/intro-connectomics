@@ -11,7 +11,7 @@
 | 5            | 1/12 | Lichtman     | The big data challenges of connectomics                                                    | Albert Lee         |
 | 5            | 1/12 | Xia          | BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics                 | Augusto Ramirez    |
 |              | 1/14 | Collman      | Mapping Synapses by Conjugate Light-Electron Array Tomography                              | Elizabeth Morgan   |
-| 6            | 1/14 | Mountcastle  | Introduction                                                                               | Adam Chang         |
+| 6            | 1/14 | Mountcastle  | Making sense of Brain Network Data                                                         | Adam Chang         |
 | 6            | 1/14 | Burns        | from Cosmos to connectomes The evolution of data-intensive science                         | Ryan Marren        |
 | 6            | 1/19 | Deisseroth   | Clarity for mapping the nervous system                                                     | Daniel Lopez       |
 | 7            | 1/19 | Helmstaedter | Connectomic reconstruction of the inner plexiform layer in the mouse retina                | Katie Link         |
