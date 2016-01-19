@@ -1,6 +1,6 @@
 ## Mapping the Brain:  An Introduction to Connectomics
 
-**Draft Syllabus - Last Updated 01.04.2016**
+** Syllabus - Last Updated 01.04.2016**
 
 ### Course Overview
 
